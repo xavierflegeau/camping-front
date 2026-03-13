@@ -54,5 +54,6 @@ body {
   height: 100vh;
   background: rgba(0, 0, 0, 0.5);
   z-index: 1;
+  overflow-y: auto;
 }
 </style>
